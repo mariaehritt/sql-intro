@@ -24,4 +24,7 @@
 -- | Billy      | Hamilton  |
 -- | Ian        | Happ      |
 
+SELECT
+FROM
+INNER JOIN
 
